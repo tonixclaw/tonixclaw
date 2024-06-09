@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @_.brayoo
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning software develoopment
+- 🌱 I’m currently learning software development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
